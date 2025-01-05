@@ -12,6 +12,7 @@
 ✲javascript 
 </h5> <br>
 
+![alt text](pokemons-guide-ezgif.com-optimize.gif)
 
-![alt text](pokemons-guide-ezgif.com-optimize-1.gif)
+# PokedexGuide
 # PokedexGuide
