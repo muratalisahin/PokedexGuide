@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="tr">
-    <title>Pokemon Tasarımı</title>
-    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <div class="container">
