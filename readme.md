@@ -2,7 +2,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="title">☑ Pokemonlar Görseldeki gibi Js,Css,Html ile birlikte dizayn edildi</h1>
+        <h2 class="title">☑ Pokemonlar Görseldeki gibi Js,Css,Html ile birlikte dizayn edildi</h2>
         <h2 class="subtitle">☑ Görsel tasarım dili olarak</h2>
         <ul class="design-list">
             <li>☑ ✲ <span class="highlight">.css</span></li>
