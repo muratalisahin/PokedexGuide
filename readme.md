@@ -23,8 +23,9 @@
             Ağırlık: Daha fazla ayrıntı için Pokémon'un ağırlığı hakkında bilgi.
             Tür Simgesi: Pokémon'un türünün hızlı tanımlanması için grafiksel gösterimi.
             Modern Kullanıcı Arayüzü: CSS kullanılarak tasarlandı ve ilgi çekici bir kullanıcı deneyimi için Font Awesome simgeleriyle geliştirildi.
-           ▷ @ iletişim mail : muratalisahin61@gmail.com
+       
    
 
 ![alt text](pokemons-guide-ezgif.com-optimize.gif)
 
+    ▷ @ iletişim mail : muratalisahin61@gmail.com
