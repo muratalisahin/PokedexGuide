@@ -5,14 +5,15 @@
         <h2 class="title">☑ Pokemonlar görseldeki gibi  dizayn edildi</h2>
         <h2>
              Pokemon severler için tasarlandı 
-             Bu proje, Pokémon meraklıları için tasarlanmış maziyi hatırlatan  bir web uygulamasıdır. Pokémonlara  dair  bir rehber görevi görür ve görsel olarak  
+             Bu proje, Pokémon meraklıları için tasarlanmış maziyi hatırlatan  bir web uygulamasıdır.<br>
+            Pokémonlara  dair  bir rehber görevi görür ve görsel olarak :
         poekmonların ağırlığı  ,expsi,özellikleri  grassı sunuldu ,arkaplan renkleri ,üzerine gelince büyütme eklendi 
         </h2>
         <h3> ☁Kullanılan yazılım dili <br>
            🗸JavaScript <br>
            🗸 Css <br>
-            🗸 Html-5 
-            ☁Özellikler
+            🗸 Html-5 <br>
+            ☁Özellikler<br>
             Görsel sunum için javaScript,html,Css ile entegre edilerek   dizayn yapıldı
             Duyarlı Tasarım: Uygulama mobil uyumlu olacak şekilde tasarlanmıştır ve farklı ekran boyutlarına sorunsuz bir şekilde uyum sağlar.
 
