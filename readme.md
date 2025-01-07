@@ -23,7 +23,7 @@
             Tür Simgesi: Pokémon'un türünün hızlı tanımlanması için grafiksel gösterimi.<br>
             Modern Kullanıcı Arayüzü: CSS kullanılarak tasarlandı ve ilgi çekici bir kullanıcı deneyimi için Font Awesome simgeleriyle geliştirildi.<br>
 
-        </h3>
+   
 
 ![alt text](pokemons-guide-ezgif.com-optimize.gif)
 
