@@ -7,7 +7,7 @@
              Pokemon severler için tasarlandı 
              Bu proje, Pokémon meraklıları için tasarlanmış maziyi hatırlatan  bir web uygulamasıdır.<br>
             Pokémonlara  dair  bir rehber görevi görür ve görsel olarak :
-        poekmonların ağırlığı<br>  ,expsi,özellikleri<br>  grassı sunuldu <br>,arkaplan renkleri<br> ,üzerine gelince büyütme eklendi <br>
+        poekmonların ▷ ağırlığı<br>  ▷expsi,özellikleri<br> ▷ grassı sunuldu <br>▷arkaplan renkleri<br> ▷üzerine gelince büyütme eklendi <br>
         </h2>
         <h3> ☁Kullanılan yazılım dili <br>
             🗸JavaScript <br>
