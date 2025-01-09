@@ -28,5 +28,5 @@
 
 ![alt text](pokemons-guide-ezgif.com-optimize.gif)
 
-   ▷  @ iletişim mail : muratalisahin61@gmail.com
+   ▷  @ iletişim mail : muratalisahin61@gmail.com <br>
    ▷ iletişim linkedin: https://www.linkedin.com/in/muratalisahin/
