@@ -10,8 +10,8 @@
         poekmonların ağırlığı  ,expsi,özellikleri  grassı sunuldu ,arkaplan renkleri ,üzerine gelince büyütme eklendi 
         </h2>
         <h3> ☁Kullanılan yazılım dili <br>
-           🗸JavaScript <br>
-           🗸 Css <br>
+            🗸JavaScript <br>
+            🗸 Css <br>
             🗸 Html-5 <br>
             ☁Özellikler<br>
             Görsel sunum için javaScript,html,Css ile entegre edilerek   dizayn yapıldı
@@ -28,4 +28,5 @@
 
 ![alt text](pokemons-guide-ezgif.com-optimize.gif)
 
-    ▷ @ iletişim mail : muratalisahin61@gmail.com
+   ▷  @ iletişim mail : muratalisahin61@gmail.com
+   ▷ iletişim linkedin: https://www.linkedin.com/in/muratalisahin/
